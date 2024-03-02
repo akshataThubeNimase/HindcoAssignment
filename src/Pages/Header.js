@@ -28,7 +28,7 @@ const Header = () => {
           <span style={{ color: 'black', fontWeight:500 }}></span>
         </h2>
       </div>
-      <div className="col-sm-1 col-md-1 col-lg-1 menu-item" style={{backgroundColor:isActive('/home') ? 'whitesmoke' : '' }} onClick={() => handleRouteChange('/home')}>Home</div>
+      <div className="col-sm-1 col-md-1 col-lg-1 menu-item" style={{backgroundColor:isActive('/HindcoAssignment') ? 'whitesmoke' : '' }} onClick={() => handleRouteChange('/HindcoAssignment')}>Home</div>
       <div className="col-sm-1 col-md-1 col-lg-1 menu-item" style={{backgroundColor:isActive('/products') ? 'whitesmoke' : '' }} onClick={() => handleRouteChange('/products')}> Product</div>
       <div className="col-sm-1 col-md-1 col-lg-1 menu-item" style={{backgroundColor:isActive('/other') ? 'whitesmoke' : '' }} onClick={() => handleRouteChange('/other')}> Other</div>
     </nav>
