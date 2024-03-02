@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HindcoAssignment/home/static/css/main.b6013f13.css",
-    "main.js": "/HindcoAssignment/home/static/js/main.9406cae9.js",
-    "static/js/453.a27ae5af.chunk.js": "/HindcoAssignment/home/static/js/453.a27ae5af.chunk.js",
-    "static/media/carrotseeds.webp": "/HindcoAssignment/home/static/media/carrotseeds.114388294dd7e5c76bf0.webp",
-    "static/media/freshmart.png": "/HindcoAssignment/home/static/media/freshmart.5eaa31fb80363fbbbbe8.png",
-    "static/media/tomatto.jpg": "/HindcoAssignment/home/static/media/tomatto.4d5269c3d02aa50726ac.jpg",
-    "index.html": "/HindcoAssignment/home/index.html",
-    "main.b6013f13.css.map": "/HindcoAssignment/home/static/css/main.b6013f13.css.map",
-    "main.9406cae9.js.map": "/HindcoAssignment/home/static/js/main.9406cae9.js.map",
-    "453.a27ae5af.chunk.js.map": "/HindcoAssignment/home/static/js/453.a27ae5af.chunk.js.map"
+    "main.css": "/HindcoAssignment/static/css/main.b6013f13.css",
+    "main.js": "/HindcoAssignment/static/js/main.eead6c99.js",
+    "static/js/453.a27ae5af.chunk.js": "/HindcoAssignment/static/js/453.a27ae5af.chunk.js",
+    "static/media/carrotseeds.webp": "/HindcoAssignment/static/media/carrotseeds.114388294dd7e5c76bf0.webp",
+    "static/media/freshmart.png": "/HindcoAssignment/static/media/freshmart.5eaa31fb80363fbbbbe8.png",
+    "static/media/tomatto.jpg": "/HindcoAssignment/static/media/tomatto.4d5269c3d02aa50726ac.jpg",
+    "index.html": "/HindcoAssignment/index.html",
+    "main.b6013f13.css.map": "/HindcoAssignment/static/css/main.b6013f13.css.map",
+    "main.eead6c99.js.map": "/HindcoAssignment/static/js/main.eead6c99.js.map",
+    "453.a27ae5af.chunk.js.map": "/HindcoAssignment/static/js/453.a27ae5af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6013f13.css",
-    "static/js/main.9406cae9.js"
+    "static/js/main.eead6c99.js"
   ]
 }
