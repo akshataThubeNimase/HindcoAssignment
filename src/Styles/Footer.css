@@ -1,0 +1,10 @@
+.main-footer{
+    height: 370px;
+    /* display: flex; */
+    justify-content: center;
+}
+.site-footer {
+    background: rgb(32, 14, 14);
+    background: linear-gradient(0deg, rgb(22, 175, 129) 0%, rgb(173, 167, 167) 100%);
+}
+

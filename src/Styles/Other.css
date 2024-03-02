@@ -1,0 +1,18 @@
+.main-otherp{
+    flex: 1;
+    display: flex;
+    padding-right: 200px;
+    padding-left: 200px;
+    flex-direction: column;
+    background-color: whitesmoke;
+
+}
+.list-otherp{
+    display: flex;
+    justify-content: space-around;
+}
+.main-other{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}

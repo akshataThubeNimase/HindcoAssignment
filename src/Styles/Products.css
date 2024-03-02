@@ -1,0 +1,13 @@
+.main-products{
+    flex: 1;
+    display: flex;
+    padding-right: 200px;
+    padding-left: 200px;
+    flex-direction: column;
+    background-color: whitesmoke;
+
+}
+.list-products{
+    display: flex;
+    justify-content: space-around;
+}
